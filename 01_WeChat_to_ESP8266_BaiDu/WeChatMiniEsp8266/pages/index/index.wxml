@@ -1,0 +1,18 @@
+<view class="page">
+
+
+  <view class="page__bd page__bd_spacing">
+    <button class="weui-btn" type="primary" bindtap='onClick_Simple'>简单使用连接Mqtt服务器</button>
+    <button class="weui-btn" type="primary" bindtap='onClick_Aliyun'>连接阿里云物联网服务器</button>
+  </view>
+
+
+
+
+  <view class="weui-footer weui-footer_fixed-bottom">
+    <view class="weui-footer__text">Copyright ©半颗心脏 https://github.com/xuhongv</view>
+  </view>
+
+
+
+</view>
